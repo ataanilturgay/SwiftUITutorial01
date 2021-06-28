@@ -1,0 +1,115 @@
+[
+  {
+    "id" : "interstellar",
+    "name" : "Interstellar",
+    "headline" : "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "link" : "https://en.wikipedia.org/wiki/Interstellar",
+    "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "director": "Christopher Nolan",
+    "releaseDate": "2014",
+    "image" : "interstellar",
+    "gallery" : [
+      "interstellar-1",
+      "interstellar-2",
+      "interstellar-3",
+      "interstellar-4"
+    ]
+  },
+  {
+    "id" : "joker",
+    "name" : "Joker",
+    "headline" : "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "link" : "https://en.wikipedia.org/wiki/Joker",
+    "cast": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "director": "Todd Phillips",
+    "releaseDate": "2019",
+    "image" : "joker",
+    "gallery" : [
+      "joker-1",
+      "joker-2",
+      "joker-3",
+      "joker-4"
+    ]
+  },
+  {
+    "id" : "theWolfofWallStreet",
+    "name" : "The Wolf of Wall Street",
+    "headline" : "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "link" : "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)",
+    "cast": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+    "director": "Martin Scorsese",
+    "releaseDate": "2013",
+    "image" : "theWolfofWallStreet",
+    "gallery" : [
+      "theWolfofWallStreet-1",
+      "theWolfofWallStreet-2",
+      "theWolfofWallStreet-3",
+      "theWolfofWallStreet-4"
+    ]
+  },
+  {
+    "id" : "inception",
+    "name" : "Inception",
+    "headline" : "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "link" : "https://en.wikipedia.org/wiki/Inception",
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "director": "Christopher Nolan",
+    "releaseDate": "2010",
+    "image" : "inception",
+    "gallery" : [
+      "inception-1",
+      "inception-2",
+      "inception-3",
+      "inception-4"
+    ]
+  },
+  {
+    "id" : "fightClub",
+    "name" : "Fight Club",
+    "headline" : "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "link" : "https://en.wikipedia.org/wiki/Fight_Club",
+    "cast": "Brad Pitt, Edward Norton, Meat Loaf",
+    "director": "David Fincher",
+    "releaseDate": "1999",
+    "image" : "fightClub",
+    "gallery" : [
+      "fightClub-1",
+      "fightClub-2",
+      "fightClub-3",
+      "fightClub-4"
+    ]
+  },
+  {
+    "id" : "shutterIsland",
+    "name" : "Shutter Island",
+    "headline" : "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+    "link" : "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+    "cast": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+    "director": "Martin Scorsese",
+    "releaseDate": "2010",
+    "image" : "shutterIsland",
+    "gallery" : [
+      "shutterIsland-1",
+      "shutterIsland-2",
+      "shutterIsland-3",
+      "shutterIsland-4"
+    ]
+  },
+  {
+    "id" : "matrix",
+    "name" : "The Matrix",
+    "headline" : "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "link" : "https://en.wikipedia.org/wiki/The_Matrix_(film)",
+    "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "director": " Lana Wachowski (as The Wachowski Brothers), Lilly Wachowski (as The Wachowski Brothers)",
+    "releaseDate": "1999",
+    "image" : "matrix",
+    "gallery" : [
+      "matrix-1",
+      "matrix-2",
+      "matrix-3",
+      "matrix-4"
+    ]
+  }
+]
+
