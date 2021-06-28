@@ -13,16 +13,14 @@ struct DiscoverView: View {
     
     var body: some View {
         NavigationView {
-            VStack {
-                List {
-                    ForEach(movies) { movie in
-                        NavigationLink(destination: MovieDetailView(movie: movie)) {
-                            DiscoverListItemView(movie: movie)
-                         }
-                    }
+            List {
+                ForEach(movies) { movie in
+                    NavigationLink(destination: MovieDetailView(movie: movie)) {
+                        DiscoverListItemView(movie: movie)
+                     }
                 }
-                .navigationBarTitle("Keşfet", displayMode: .automatic)
             }
+            .navigationBarTitle("Keşfet", displayMode: .automatic)
         }
     }
 }

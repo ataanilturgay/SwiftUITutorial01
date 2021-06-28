@@ -45,7 +45,7 @@ struct MovieDetailView_Previews: PreviewProvider {
     static let movies: [Movie] = Bundle.main.decode("Movies.json")
 
     static var previews: some View {
-        MovieDetailView(movie: movies[0])
+        MovieDetailView(movie: movies[5])
             .preferredColorScheme(.dark)
     }
 }
